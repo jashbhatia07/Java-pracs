@@ -1,3 +1,6 @@
+//26.	Write a function to find the values of following series: -Value=a+a2/2! +a3/3! +a4+4!................an/n! (use passing function as parameter to another function)
+
+
 import scala.io.StdIn._
 object MyClass { 
     def function(a:Int,n:Int,f:Int=>Int):Double={

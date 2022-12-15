@@ -1,3 +1,5 @@
+//22.	Five Bikers Compete in a race such that they Drive at Constant speed which may or may not be same as the other. To qualify the race, the speed of as racer must be more than the average speed of all 5 racers. Write Scala program to take as an input the speed of all racer and print back the speed of qualifying racer.
+
 import scala.io.StdIn._
 class Racers {
     var s1 = 0.0

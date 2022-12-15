@@ -1,3 +1,5 @@
+//21.	Create a class employee with data member empid, empname, designation and salary. Write a methods get_employee()-to take user input, show_grade –to display grade of the employee based on salary. 
+
 import scala.io.StdIn._
 class Employee {
     var empid: Int = 0;

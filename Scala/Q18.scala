@@ -1,3 +1,5 @@
+//18.	Write a program to print given no in words using pattern matching and while loop .eg 123 output one two three. 
+
 object MyClass {
     def main(args: Array[String]) {
         var n:Int=0

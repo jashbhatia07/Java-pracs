@@ -1,3 +1,6 @@
+//28.	Write a Scala program to check whether a given positive number is a multiple of 3 or a multiple of 7 
+
+
 import scala.io.StdIn._
 object MyClass { 
     def main(args: Array[String]) { 

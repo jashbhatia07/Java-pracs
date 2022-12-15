@@ -1,3 +1,6 @@
+//19.	Write a program to find whether the no is prime or not using do while loop
+
+
 import scala.util.control.Breaks._
 
 object MyClass {

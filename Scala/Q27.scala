@@ -1,3 +1,5 @@
+//27.	Write a Scala program to compute the sum of the two given integer values. If the two values are the same, then return triples their sum. (use anonymous function) 
+
 import scala.io.StdIn._
 object MyClass { 
     def main(args: Array[String]) { 
